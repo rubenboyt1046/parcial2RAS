@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPresentacion", "CPresentacion\CPresentacion.csproj", "{F803131D-B7B9-4912-8D51-5F9DD61CF2F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CADatos", "CADatos\CADatos.csproj", "{97470D7F-86C2-4534-93AA-D9BFF1826693}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLNegocio", "CLNegocio\CLNegocio.csproj", "{D7443892-2604-40A0-9674-651F10D732D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F803131D-B7B9-4912-8D51-5F9DD61CF2F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F803131D-B7B9-4912-8D51-5F9DD61CF2F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F803131D-B7B9-4912-8D51-5F9DD61CF2F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F803131D-B7B9-4912-8D51-5F9DD61CF2F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97470D7F-86C2-4534-93AA-D9BFF1826693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97470D7F-86C2-4534-93AA-D9BFF1826693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97470D7F-86C2-4534-93AA-D9BFF1826693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97470D7F-86C2-4534-93AA-D9BFF1826693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7443892-2604-40A0-9674-651F10D732D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7443892-2604-40A0-9674-651F10D732D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7443892-2604-40A0-9674-651F10D732D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7443892-2604-40A0-9674-651F10D732D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1525123D-DAE1-4378-BD32-E692B16B3008}
+	EndGlobalSection
+EndGlobal
